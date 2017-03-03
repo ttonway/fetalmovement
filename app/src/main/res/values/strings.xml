@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">数胎动</string>
+
+    <string name="activity_history">历史记录</string>
+
+    <string name="btn_add_move">我家宝宝动了</string>
+    <string name="btn_begin_one_hour">开始一小时</string>
+
+    <string name="label_today">今天</string>
+    <string name="label_one_hour">一小时</string>
+    <string name="label_last_time_x">距上次：%s</string>
+</resources>
